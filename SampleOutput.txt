@@ -1,0 +1,28 @@
+Let’s play the Number Guessing Game!
+DEBUG: 9
+Guess a number between 1 and 10.
+Guess # 1: 5
+You guessed too low.
+Guess again!
+Guess a number between 1 and 10.
+Guess # 2: 10
+You guessed too high.
+Guess again!
+Guess a number between 1 and 10.
+Guess # 3: 8
+You guessed too low.
+Game over!
+The number was 9
+Wanna play again (Y/N)? y
+DEBUG: 6
+Guess a number between 1 and 10.
+Guess # 1: 5
+You guessed too low.
+Guess again!
+Guess a number between 1 and 10.
+Guess # 2: 6
+You got it!
+Game over!
+The number was 6
+Wanna play again (Y/N)? n
+Thanks for playing the Number Guessing Game!
